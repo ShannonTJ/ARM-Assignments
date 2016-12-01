@@ -1,7 +1,7 @@
 # ARM-Assignments
 A selection of assignments written in ARM assembly, Winter 2016. Code was run on a Raspberry Pi.
 
-A2 receives user input (as integer values) and performs error checking on these values. Gets the sum and average, and prints these messages to the terminal.
+A2 receives user input (as integer values) and performs error checking on these values. Gets the sum and average, and prints messages to the terminal.
 
 A3 is a driver for a SNES controller.
 
